@@ -66,6 +66,30 @@ const nicolas = {
 - 🎮 Control Chrome's T-Rex with your body
 - 🏆 Hackathon winner project
 
+## ⭐ What I'm Following
+
+I'm passionate about discovering new technologies and staying at the forefront of innovation. Here's what catches my attention:
+
+<div align="center">
+
+### 🔍 **Areas of Interest**
+
+| 🔐 **Auth & Backend** | ⚛️ **Frontend Innovation** | 📊 **Data & Visualization** |
+|:---:|:---:|:---:|
+| Better-Auth, Payload CMS | Nanostores, Preact | AG-Grid, GoJS |
+| Directus, Nhost | DaisyUI, Storybook | React Google Charts |
+
+| 🤖 **AI & Machine Learning** | 🛠️ **Developer Tools** | 🎮 **Fun & Gaming** |
+|:---:|:---:|:---:|
+| Ultralytics YOLO11 | Dagger, Presenterm | Chess Libraries |
+| LM Studio, MCP Servers | Docusaurus, Cockpit | Interactive Games |
+
+</div>
+
+**🌟 Philosophy**: I believe in exploring diverse technologies because innovation often happens at the intersection of different fields. From enterprise data grids to chess engines, from AI models to developer tooling - each star represents a piece of the ever-evolving tech puzzle.
+
+> *"Curiosity is the engine of achievement"* - My approach to continuous learning
+
 ## 📊 GitHub Stats
 
 <div align="center">
